@@ -1,0 +1,14 @@
+C:\Users\mordex\Desktop\project2\bin\Debug\net8.0\project2.exe
+C:\Users\mordex\Desktop\project2\bin\Debug\net8.0\project2.deps.json
+C:\Users\mordex\Desktop\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+C:\Users\mordex\Desktop\project2\bin\Debug\net8.0\project2.dll
+C:\Users\mordex\Desktop\project2\bin\Debug\net8.0\project2.pdb
+C:\Users\mordex\Desktop\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mordex\Desktop\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+C:\Users\mordex\Desktop\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+C:\Users\mordex\Desktop\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\mordex\Desktop\project2\obj\Debug\net8.0\project2.dll
+C:\Users\mordex\Desktop\project2\obj\Debug\net8.0\refint\project2.dll
+C:\Users\mordex\Desktop\project2\obj\Debug\net8.0\project2.pdb
+C:\Users\mordex\Desktop\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+C:\Users\mordex\Desktop\project2\obj\Debug\net8.0\ref\project2.dll
